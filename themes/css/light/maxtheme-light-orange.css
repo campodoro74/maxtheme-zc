@@ -17,9 +17,9 @@
     --font-family: "Ubuntu", system-ui;
 
     /* --- Base colors --- */
-    --color-primary: #c2410c;
-    --color-primary-hover: #a13407;
-    --color-primary-focus: #d5967c;
+    --color-primary: #FF9D00;
+    --color-primary-hover: #CC7F00;
+    --color-primary-focus: #FFC566;
     --color-secondary: #222222;
     --color-tertiary: #e9beac;
     --color-light-primary: #ffffff;
