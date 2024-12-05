@@ -12,7 +12,7 @@
 
 <h2 align="center">Max Theme for HestiaCP</h2>
 
-<p align="center"><strong>Latest version:</strong> 3.0.1 | <a href="https://github.com/campodoro74/maxtheme/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
+<p align="center"><strong>Latest version:</strong> 3.0.1 | <a href="https://github.com/campodoro74/maxtheme-zc/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
 
 <p align="center">
 </p>
@@ -39,7 +39,7 @@ New version 3.0 completely improved and built from scratch, install one or more 
 To install one or more themes you must run as `root` the following command in your terminal:<br>
 #### - Install MaxTheme Dark/Light
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/campodoro74/maxtheme/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/campodoro74/maxtheme-zc/main/install.sh)
 ```
 > Compatible with the latest versions of HestiaCP `v1.8.10`, `v1.8.11`, `v1.8.12` and `v1.9.0~beta`
 
