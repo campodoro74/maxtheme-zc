@@ -10,7 +10,7 @@
 
 </div>
 
-<h2 align="center">Max Theme for HestiaCP</h2>
+<h2 align="center">ZenaTheme for HestiaCP</h2>
 
 <p align="center"><strong>Latest version:</strong> 3.0.1 | <a href="https://github.com/campodoro74/maxtheme-zc/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
 
