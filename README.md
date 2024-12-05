@@ -1,13 +1,4 @@
 <p align="center">
-    <b>Select your language | Selecciona tu idioma</b>
-</p>
-<p align="center">
-  <a href="#max-theme-for-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/en.png"></a>
-  <a href="#max-theme-para-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/es.png"></a><br>
-  <a href="#max-theme-for-hestiacp">English</a> | <a href="#max-theme-para-hestiacp">Español</a>
-</p>
-
-<p align="center">
     <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-light.gif"/>
 </p>
 
